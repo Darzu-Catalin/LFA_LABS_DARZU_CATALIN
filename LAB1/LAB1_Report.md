@@ -1,4 +1,4 @@
-# The title of the work
+# LAB 1
 
 ### Course: Formal Languages & Finite Automata
 ### Author: Dârzu Cătălin
