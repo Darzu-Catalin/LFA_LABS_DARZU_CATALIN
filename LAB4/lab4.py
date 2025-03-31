@@ -189,10 +189,8 @@ class CombinationGenerator:
         return self.steps
 
 
-# ----------------------- DEMO of "Variant 1" --------------------------------
-
 if __name__ == "__main__":
-    # This is the “Variant 1” from your image, placed on one line
+
     # with spaces between each piece:
     variant_1 = (
         "(a|b)(c|d)E+G? "  # line 1

@@ -301,7 +301,6 @@ By bridging the gap between theoretical formalisms (like finite automata) and pr
 
 
 ## References
-
 [1] Stephen Cole Kleene (1951). Representation of Events in Nerve Nets and Finite Automata.
 
 [2] Formal Languages and Finite Automata, Guide for Practical Lessons. [Available at FCIM educational site or library resources]
